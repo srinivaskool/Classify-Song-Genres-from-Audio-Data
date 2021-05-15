@@ -1,5 +1,7 @@
 # Classify-Song-Genres-from-Audio-Data
 
+We are classifying the audio clips into hip-hop and rock using different features like comments,composer,genres,information,interest,lyricist and publisher.
+
 ### Table of Contents
 
 - [Description](#description)
